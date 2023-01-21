@@ -343,7 +343,7 @@ span[aria-label="Close page"] {
     z-index: 1;
     top: 0;
     left: 0;
-    opacity: 0.3;
+    opacity: 0.4;
     background-color: rgb(0, 0, 0);
     /* Black*/
     /* overflow-x: hidden; Disable horizontal scroll */
@@ -373,7 +373,7 @@ span[aria-label="Close page"] {
 
 
 .site-body-left-column .site-body-left-column-site-logo {
-    max-width: 40px;
+    max-width: 60px;
     left: 10px;
     position: relative;
     opacity: 0.8;
@@ -383,7 +383,7 @@ span[aria-label="Close page"] {
 .site-body-left-column:hover .site-body-left-column-site-logo {
     transition: 0.64s;
     left: 0px;
-    max-width: 80px;
+    max-width: 100px;
     opacity: 1;
     transition: 0.8s;
 }

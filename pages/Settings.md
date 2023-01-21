@@ -1,7 +1,8 @@
 ![[page.settings.jpg]]
-[[Home]] • [[Overview]] • [[Styles]]
 
 This page covers the obsidian publish settings used for the theme. The obsidian publish [documentation](https://help.obsidian.md/Obsidian+Publish/Introduction+to+Obsidian+Publish) may also be a useful resource.
+
+## Settings
 
 - Site Name: `mintel`
 - Homepage File: `pages/Home.md`
@@ -17,4 +18,10 @@ This page covers the obsidian publish settings used for the theme. The obsidian 
 - Show Search Bar: `on`
 - Show Graph View: `on`
 - Show Table of Contents: `on`
-- Show Backlinks: `on`
+- Show Backlinks: `off`
+
+## Notes
+
+### Backlinks
+
+### Changing Settings

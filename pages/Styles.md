@@ -1,4 +1,3 @@
 ![[page.styles.jpg]]
-[[Home]] • [[Overview]] • [[Settings]]
 
-
+This page is the documentation for the CSS styling choices.
