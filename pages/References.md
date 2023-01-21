@@ -1,3 +1,5 @@
+![[page.references.jpg]]
+
 # References
 
 ## Site Icon
