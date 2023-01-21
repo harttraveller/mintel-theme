@@ -12,7 +12,6 @@ kanban-plugin: basic
 ## Working
 
 - [ ] [[Installation]]
-- [ ] [[Navigation]]
 - [ ] [[Overview]]
 - [ ] [[References]]
 - [ ] [[Features]]
@@ -23,6 +22,7 @@ kanban-plugin: basic
 
 ## Focus
 
+- [ ] [[Navigation]]
 
 
 ## Done
