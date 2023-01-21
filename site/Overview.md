@@ -1,6 +1,11 @@
 ![[page.overview.jpg]]
 
+*Work in progress...*
+
+%%
 This is an open source project with the goal of creating a modern, minimal, customizable, and 'space' efficient theme for the [publish](https://obsidian.md/publish) service offered by [obsidian](https://obsidian.md). 
+
+pen source, MIT Licensed, non-commercial 
 
 open source,
 
@@ -15,3 +20,4 @@ Welcome to this [obsidian](https://obsidian.md) site. It is deployed with the .
 ## License
 It has an MIT [license](https://github.com/harttraveller/mintel-theme/blob/main/LICENSE) and accordingly is free to use. 
 
+%%

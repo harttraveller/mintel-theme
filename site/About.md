@@ -1,6 +1,6 @@
 ![[page.about.jpg]]
 
-Welcome to the [mintel](https://github.com/harttraveller/mintel-theme) docs. The project aims to create a minimal and 'intelligent'  theme for the [publish](https://obsidian.md/publish) service offered by [obsidian](https://obsidian.md).
+Welcome to the [mintel](https://github.com/harttraveller/mintel-theme) docs. This project aims to create a minimal and 'intelligent'  theme for the [publish](https://obsidian.md/publish) service offered by [obsidian](https://obsidian.md).
 <p style="color: #ff9d00;"><i>Note that you can quickly access pages by hovering on the left.</i></p>
 
 - [[Navigation]] -> Site navigation details.

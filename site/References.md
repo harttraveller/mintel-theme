@@ -1,8 +1,13 @@
 ![[page.references.jpg]]
 
+*Work in progress...*
+
+%%
 # References
 
 https://fonts.google.com
+
+obsidian docs
 
 ## Site Icon
 
@@ -17,3 +22,5 @@ https://fonts.google.com
 ## Favicon
 
 ## Contact Form
+
+%%

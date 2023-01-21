@@ -1,5 +1,8 @@
 ![[page.styles.jpg]]
 
+*Work in progress...*
+
+%%
 This page is the documentation for the CSS styling choices. I've included comments on the CSS where the purpose might not be clear. The publish theme file is available in [this](https://github.com/harttraveller/mintel-theme/blob/main/publish.css) GitHub repository.
 
 # Text Customization
@@ -27,3 +30,4 @@ div {
 }
 ```
 
+%%
