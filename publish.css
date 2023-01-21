@@ -257,7 +257,7 @@ span[aria-label="Close page"] {
 
 .site-body-right-column {
     /* height: 100%; */
-    width: 5%;
+    width: 100px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -274,7 +274,7 @@ span[aria-label="Close page"] {
 .site-body-right-column:active {
     /* height: 100%; */
     /* flex: 0 0 360px; */
-    width: 28%;
+    width: 362px;
     position: fixed;
     z-index: 1;
     top: 0;
