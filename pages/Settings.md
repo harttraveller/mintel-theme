@@ -4,7 +4,7 @@
 This page covers the obsidian publish settings used for the theme. The obsidian publish [documentation](https://help.obsidian.md/Obsidian+Publish/Introduction+to+Obsidian+Publish) may also be a useful resource.
 
 - Site Name: `mintel`
-- Homepage File: `Home.md`
+- Homepage File: `pages/Home.md`
 - Logo: `assets/icon.gif`
 - Theme: `dark`
 - Light/Dark Toggle: `off`
