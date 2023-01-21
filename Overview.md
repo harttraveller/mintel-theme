@@ -1,7 +1,9 @@
 ![[page.overview.jpg]]
 [[Home]] • [[Settings]] • [[Styles]]
 
-# Overview
+# Purpose
+
+I created for my own digital mind website.
 
 
 - navigation
