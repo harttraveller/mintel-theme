@@ -1,4 +1,5 @@
-# Settings
+![[page.settings.jpg]]
+[[Home]] • [[Overview]] • [[Styles]]
 
 This page covers the obsidian publish settings used for the theme. The obsidian publish [documentation](https://help.obsidian.md/Obsidian+Publish/Introduction+to+Obsidian+Publish) may also be a useful resource.
 
