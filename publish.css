@@ -157,17 +157,6 @@ h4 {
 }
 
 
-.graph-expand {
-    right: 87%;
-    top: 365px;
-}
-
-.graph-global {
-    right: 92%;
-    top: 365px;
-}
-
-
 .outline-view-outer {
     position: relative;
     top: -417px;
@@ -273,7 +262,6 @@ span[aria-label="Close page"] {
 }
 
 
-
 .site-body-right-column .graph-view-container {
     /* background-color: #000000; */
     /* border: 0px solid #000000; */
@@ -303,6 +291,18 @@ span[aria-label="Close page"] {
     padding: 00px;
 
 }
+
+.graph-expand {
+    right: 87%;
+    top: 365px;
+}
+
+.graph-global {
+    right: 92%;
+    top: 365px;
+}
+
+
 
 .published-section-header {
     display: none;

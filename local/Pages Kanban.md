@@ -4,12 +4,14 @@ kanban-plugin: basic
 
 ---
 
-## Future
+## Backlog
 
+- [ ] [[Contact]]
 
 
 ## Working
 
+- [ ] [[Installation]]
 - [ ] [[Navigation]]
 - [ ] [[Overview]]
 - [ ] [[References]]
@@ -21,14 +23,12 @@ kanban-plugin: basic
 
 ## Focus
 
-- [ ] [[Installation]]
 
 
 ## Done
 
 **Complete**
 - [x] [[About]]
-- [x] [[Contact]]
 
 
 
