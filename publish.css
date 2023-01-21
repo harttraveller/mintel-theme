@@ -1,25 +1,12 @@
-/* 
-NOTES
-- An exclamation point delineates the discrete sections.
-  - If you are using VSCode and have the better comments extension, these will show up as red.
-- Comments are included inline when it may be unclear what the purpose of a CSS line is
-
-*/
-
-/* ! FONT IMPORT */
+/* Documentation: https://publish.obsidian.md/mintel/pages/Styles */
 
 @import url('https://fonts.googleapis.com/css?family=Inter');
 
-/* ! TEXT CUSTOMIZATION */
-
-/* paragraph text */
 p {
-    /* justify the text as blocks */
     text-align: justify;
     font-family: 'Inter';
 }
 
-/* div text */
 div {
     font-family: 'Inter';
 }
