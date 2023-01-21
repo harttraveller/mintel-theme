@@ -1,6 +1,6 @@
 ![[page.support.jpg]]
 
-*Work in progress...*
+<p style="color: red;"><i>Work in progress...</i></p>
 
 %%
 - github feature requests and issues and discussions

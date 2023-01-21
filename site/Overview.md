@@ -1,6 +1,6 @@
 ![[page.overview.jpg]]
 
-*Work in progress...*
+<p style="color: red;"><i>Work in progress...</i></p>
 
 %%
 This is an open source project with the goal of creating a modern, minimal, customizable, and 'space' efficient theme for the [publish](https://obsidian.md/publish) service offered by [obsidian](https://obsidian.md). 

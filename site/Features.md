@@ -1,3 +1,3 @@
 ![[page.features.jpg]]
 
-*Work in progress...*
+<p style="color: red;"><i>Work in progress...</i></p>

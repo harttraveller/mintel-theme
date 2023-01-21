@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] [[Styles]]
 - [ ] [[Contact]]
 
 
@@ -15,20 +16,19 @@ kanban-plugin: basic
 - [ ] [[Overview]]
 - [ ] [[References]]
 - [ ] [[Features]]
-- [ ] [[Styles]]
 - [ ] [[Support]]
 - [ ] [[Settings]]
 
 
 ## Focus
 
-- [ ] [[Navigation]]
 
 
 ## Draft
 
 **Complete**
 - [x] [[About]]
+- [x] [[Navigation]]
 
 
 ## Done

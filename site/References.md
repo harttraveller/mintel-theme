@@ -1,6 +1,6 @@
 ![[page.references.jpg]]
 
-*Work in progress...*
+<p style="color: red;"><i>Work in progress...</i></p>
 
 %%
 # References

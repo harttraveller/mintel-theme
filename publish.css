@@ -11,29 +11,6 @@ div {
     font-family: 'Inter';
 }
 
-/* external links */
-a,
-.external-link {
-    /* remove underline */
-    text-decoration: none !important;
-    color: #7C8DFF;
-    /* remove link icon */
-    background-image: none;
-    /* adjust the padding to make up for the removed link icon */
-    padding-right: 0px;
-    font-family: 'Inter';
-}
-
-/* internal links */
-a,
-.internal-link {
-    /* remove underline */
-    text-decoration: none !important;
-    color: #FF8D8D;
-    font-family: 'Inter';
-}
-
-/* heading 1 */
 h1 {
     color: #ffffff;
     font-size: 28px !important;
@@ -41,7 +18,6 @@ h1 {
     font-weight: normal !important;
 }
 
-/* heading 2 */
 h2 {
     color: #cad1e2;
     font-size: 24px !important;
@@ -49,44 +25,50 @@ h2 {
     font-weight: normal !important;
 }
 
-/* heading 3 */
 h3 {
     color: #9aa9c8;
     font-size: 20px !important;
     font-family: 'Inter';
     font-weight: normal !important;
-    /* Increasing line-height prevents expansion glitch when hovering over heading and copy header link button appears */
     line-height: 1.4 !important;
 }
 
-/* heading 4 */
 h4 {
     color: #7689b0;
     font-size: 20px !important;
     font-family: 'Inter';
     font-weight: normal !important;
     font-style: italic !important;
-    /* Increasing line-height prevents expansion glitch when hovering over heading and copy header link button appears */
     line-height: 1.4 !important;
 }
 
-/* ! TAG CUSTOMIZATION */
-
-/* tag before hover */
-.tag {
+a,
+.external-link {
+    text-decoration: none !important;
+    color: #7C8DFF;
+    background-image: none;
+    padding-right: 0px;
     font-family: 'Inter';
-    /* make the tags rounded squares */
-    border-radius: 4px !important;
-    /* remove the border from the tags */
-    border: 0px !important;
-    /* set the initial tag background color */
-    background-color: rgb(34, 59, 84) !important;
 }
 
-/* tag after hover */
+a,
+.internal-link {
+    text-decoration: none !important;
+    color: #FF8D8D;
+    font-family: 'Inter';
+}
+
+.tag {
+    font-family: 'Inter';
+    border-radius: 4px !important;
+    border: 0px !important;
+    background-color: rgb(34, 59, 84) !important;
+    transition: 0.3s;
+}
+
 .tag:hover {
-    /* change the background color on tag hover*/
     background-color: rgb(26, 105, 160) !important;
+    transition: 0.3s;
 }
 
 /* ! HEADER IMAGE CUSTOMIZATION */
