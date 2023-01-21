@@ -5,8 +5,8 @@
 I originally created it for use in my personal digital mind site.
 
 
-- navigation
-- github feature requests and issues
+
+
 
 # Asset Sources
 
