@@ -15,6 +15,8 @@ obsidian docs
 
 ### Midjourney
 
+atom/minimal theme CSS pulled from
+
 ### Upscayl
 
 ### Prompts

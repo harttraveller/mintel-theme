@@ -1,12 +1,23 @@
 ![[page.about.jpg]]
 
-Welcome to the [mintel](https://github.com/harttraveller/mintel-theme) docs. This project aims to create a minimal and 'intelligent'  theme for the [publish](https://obsidian.md/publish) service offered by [obsidian](https://obsidian.md).
+Welcome to this [obsidian](https://obsidian.md) site. It's a demo of and (optimally will be) the documentation for a minimalist obsidian [publish](https://obsidian.md/publish) theme I'm working on called [mintel](https://github.com/harttraveller/mintel-theme). 
+
+## License
+
+It's open source and MIT [licensed](https://github.com/harttraveller/mintel-theme/blob/main/LICENSE), so feel free to use it on your own sites. 
+
+## Pages
 
 Note that you can quickly access pages or headings by hovering on the left and right respectively.
 
 - [[Navigation]] -> Site navigation details.
 - [[Contact]] -> Contact form.
-<p style="color: red;"><i>Other pages are being written, but will be linked here soon.</i></p>
+
+## Notes
+
+- Other pages are being written, but will be linked here soon.
+- I need to reorganize the CSS in the publish theme.
+- When I get around to it, I intend to make an python CLI tool to autogenerate customized obsidian publish themes based on this one.
 
 %%
 - [[Overview]] -> Detailed overview of project.
