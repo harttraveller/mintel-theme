@@ -1,9 +1,11 @@
 ![[page.styles.jpg]]
 
-This page is the documentation for the CSS styling choices. I've included comments on the CSS where the purpose might not be clear. The publish theme file is available in [this](https://github.com/harttraveller/mintel-theme/blob/main/publish.css) GitHub repository.
+The publish theme file is available in [this](https://github.com/harttraveller/mintel-theme/blob/main/publish.css) GitHub repository.
 
 <p style="color: red;"><i>Work in progress...</i></p>
+
 %%
+This page is the documentation for the CSS styling choices. I've included comments on the CSS where the purpose might not be clear. 
 # Note
 
 There is likely a lot of redundant/malformed stuff here (I'm primarily a python developer focused on AI research in systems engineering, and not a web dev). If you ping me on GitHub if you spot something I could improve, I'd be grateful!
