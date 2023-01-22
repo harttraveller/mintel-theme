@@ -14,11 +14,11 @@ The interface can be split into three components, the content in the middle, the
 
 ### Page Hover
 
-If enabled, hovering over an [[About|internal]] link will bring up a preview modal brings up a preview of that page.
+If enabled, hovering over an [[About|internal]] link will bring up a preview modal of the target page.
 
 ### Backlinks
 
-If enabled backlinks will be shown at the bottom of the page. These are pages that link to the page you are currently on.
+If enabled, backlinks will be shown at the bottom of the page. These are links to pages that link to the page you are currently on.
 
 ### Page Scroll
 
