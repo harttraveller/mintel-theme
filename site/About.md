@@ -2,7 +2,7 @@
 
 Welcome to the [mintel](https://github.com/harttraveller/mintel-theme) docs. This project aims to create a minimal and 'intelligent'  theme for the [publish](https://obsidian.md/publish) service offered by [obsidian](https://obsidian.md).
 
-Note that you can quickly access pages or headings by hovering on the left or right respectively.
+Note that you can quickly access pages or headings by hovering on the left and right respectively.
 
 - [[Navigation]] -> Site navigation details.
 - [[Contact]] -> Contact form.
